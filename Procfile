@@ -1,1 +1,1 @@
-web: bin/hubot -a mattermost -n peebot
+web: bin/hubot -a mattermost -n marvin
