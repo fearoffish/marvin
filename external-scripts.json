@@ -10,5 +10,6 @@
   "hubot-rules",
   "hubot-shipit",
   "hubot-seen",
-  "hubot-falsehoods"
+  "hubot-falsehoods",
+  "hubot-friendly"
 ]
